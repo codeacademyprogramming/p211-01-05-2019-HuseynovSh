@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    margin: 15rem 7em;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.box{
+    width: 250px;
+    height: 125px;
+    background-color: rgb(235, 231, 231);
+    text-align: center;
+    padding: 35px;
+}
+
+span{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(125, 175, 125);
+}
+p{
+    margin-top: 10px;
+    color: rgb(145, 143, 141)
+}

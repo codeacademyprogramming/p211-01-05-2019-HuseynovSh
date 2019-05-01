@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(235, 231, 231);
+    
+}
+
+.container{
+    margin: 15rem 2em;
+
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.bgc{
+    background-color: rgb(235, 231, 231);
+}
+
+.box{
+    width: 250px;
+    height: 250px;
+    background-color:white;
+    text-align: center;
+    padding: 35px;
+}
+h3{
+    background-color: white;
+}
+i{
+    
+    background-color: white;
+}
+.i{
+    background-color: white;
+    color: rgb(74, 124, 74);
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+span{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(125, 175, 125);
+    background-color: white;
+}
+p{
+    margin-top: 10px;
+    color: rgb(145, 143, 141);
+    background-color: white;
+}
